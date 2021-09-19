@@ -7,7 +7,6 @@ random_numbers.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
-#hola
 # C extensions
 *.so
 
